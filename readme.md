@@ -2,4 +2,9 @@
 
 ## Description
 
-Bulding tetris as TypeScript playground
+Building tetris as TypeScript playground
+
+![TypeScript playground](http://g.recordit.co/axvI9sZKJy.gif)
+
+
+
